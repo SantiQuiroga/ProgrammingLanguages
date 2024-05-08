@@ -1,0 +1,14 @@
+/home/santi/Desktop/c# 6-5/app/obj/Debug/net8.0/app.GeneratedMSBuildEditorConfig.editorconfig
+/home/santi/Desktop/c# 6-5/app/obj/Debug/net8.0/app.AssemblyInfoInputs.cache
+/home/santi/Desktop/c# 6-5/app/obj/Debug/net8.0/app.AssemblyInfo.cs
+/home/santi/Desktop/c# 6-5/app/obj/Debug/net8.0/app.csproj.CoreCompileInputs.cache
+/home/santi/Desktop/c# 6-5/app/bin/Debug/net8.0/app
+/home/santi/Desktop/c# 6-5/app/bin/Debug/net8.0/app.deps.json
+/home/santi/Desktop/c# 6-5/app/bin/Debug/net8.0/app.runtimeconfig.json
+/home/santi/Desktop/c# 6-5/app/bin/Debug/net8.0/app.dll
+/home/santi/Desktop/c# 6-5/app/bin/Debug/net8.0/app.pdb
+/home/santi/Desktop/c# 6-5/app/obj/Debug/net8.0/app.dll
+/home/santi/Desktop/c# 6-5/app/obj/Debug/net8.0/refint/app.dll
+/home/santi/Desktop/c# 6-5/app/obj/Debug/net8.0/app.pdb
+/home/santi/Desktop/c# 6-5/app/obj/Debug/net8.0/app.genruntimeconfig.cache
+/home/santi/Desktop/c# 6-5/app/obj/Debug/net8.0/ref/app.dll
