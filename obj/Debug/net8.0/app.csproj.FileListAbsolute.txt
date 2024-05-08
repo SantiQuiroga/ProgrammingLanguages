@@ -12,3 +12,4 @@
 /home/santi/Desktop/c# 6-5/app/obj/Debug/net8.0/app.pdb
 /home/santi/Desktop/c# 6-5/app/obj/Debug/net8.0/app.genruntimeconfig.cache
 /home/santi/Desktop/c# 6-5/app/obj/Debug/net8.0/ref/app.dll
+/home/santi/Desktop/c# 6-5/app/obj/Debug/net8.0/app.sourcelink.json
